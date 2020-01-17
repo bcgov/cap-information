@@ -1,6 +1,6 @@
 # Dynamics 365
 
-![alt text](images/microsoft-dynamics-logo-978x323.png "Microsoft Dynamics Logo")
+![alt text](images/microsoft-dynamics-logo-178x59.png  "Microsoft Dynamics Logo")
 
 Dynamics 365 is Microsoft's cloud-based platform that bundles together Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) capabilities.
 
