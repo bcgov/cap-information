@@ -1,4 +1,22 @@
-# Dynamics 365
+---
+title: Dynamics 365 FAQ
+description: Dynamics 365 is Microsoft's cloud-based platform that bundles together Customer Relationship Management (CRM) and Enterprise Resource Planning (ERP) capabilities.
+author: Andy Teppin
+personas:
+  - Developer
+  - Designer
+  - Product Owner
+labels:
+  - CRM
+  - Microsoft Dynamics 365
+  - Government
+tags:
+  - CRM
+  - Microsoft Dynamics 365
+  - Government
+resourceType: Documentation
+---
+# Dynamics 365 FAQ
 
 ![alt text](images/microsoft-dynamics-logo-178x59.png  "Microsoft Dynamics Logo")
 
