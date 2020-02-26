@@ -6,6 +6,4 @@ BC Gov Cloud Adoption Pattern information
 
 Duplication of interface
 
-* [Dynamics 365](https://github.com/bcgov/cap-information/blob/master/cloud-pathfinder/dynamics.md)
-
-
+* [Dynamics 365](cloud-pathfinder/dynamics.md)
