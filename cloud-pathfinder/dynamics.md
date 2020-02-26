@@ -7,9 +7,8 @@ personas:
   - Designer
   - Product Owner
 labels:
-  - CRM
-  - Microsoft Dynamics 365
-  - Government
+  team: Enterprise Services
+  ministry: Citizens' Services
 tags:
   - CRM
   - Microsoft Dynamics 365
